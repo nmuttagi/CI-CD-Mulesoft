@@ -34,7 +34,7 @@
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.4.0</muleVersion>
 						<username>niket_july</username>
-						<password>Niket_july6</password>
+						<password>Niket_july7</password>
 						<applicationName>CICD-Test</applicationName>
 						<environment>Sandbox</environment>
 						<workers>1</workers>
